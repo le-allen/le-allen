@@ -1,4 +1,5 @@
 ## Allen Le
 
-SJSU Software Engineering 2026
+SJSU Software Engineering B.S., 2026
 
+Public repositories are completed projects
