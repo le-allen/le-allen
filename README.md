@@ -2,4 +2,4 @@
 
 SJSU Software Engineering B.S., 2026
 
-le-allen.github.io/portfolio/
+[le-allen/Portfolio](https://le-allen.github.io/portfolio/)
